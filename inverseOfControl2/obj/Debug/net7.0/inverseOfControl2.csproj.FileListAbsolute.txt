@@ -1,0 +1,15 @@
+D:\FPT_Fresher\C#\dependencesInjection\inverseOfControl2\bin\Debug\net7.0\inverseOfControl2.exe
+D:\FPT_Fresher\C#\dependencesInjection\inverseOfControl2\bin\Debug\net7.0\inverseOfControl2.deps.json
+D:\FPT_Fresher\C#\dependencesInjection\inverseOfControl2\bin\Debug\net7.0\inverseOfControl2.runtimeconfig.json
+D:\FPT_Fresher\C#\dependencesInjection\inverseOfControl2\bin\Debug\net7.0\inverseOfControl2.dll
+D:\FPT_Fresher\C#\dependencesInjection\inverseOfControl2\bin\Debug\net7.0\inverseOfControl2.pdb
+D:\FPT_Fresher\C#\dependencesInjection\inverseOfControl2\obj\Debug\net7.0\inverseOfControl2.csproj.AssemblyReference.cache
+D:\FPT_Fresher\C#\dependencesInjection\inverseOfControl2\obj\Debug\net7.0\inverseOfControl2.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Fresher\C#\dependencesInjection\inverseOfControl2\obj\Debug\net7.0\inverseOfControl2.AssemblyInfoInputs.cache
+D:\FPT_Fresher\C#\dependencesInjection\inverseOfControl2\obj\Debug\net7.0\inverseOfControl2.AssemblyInfo.cs
+D:\FPT_Fresher\C#\dependencesInjection\inverseOfControl2\obj\Debug\net7.0\inverseOfControl2.csproj.CoreCompileInputs.cache
+D:\FPT_Fresher\C#\dependencesInjection\inverseOfControl2\obj\Debug\net7.0\inverseOfControl2.dll
+D:\FPT_Fresher\C#\dependencesInjection\inverseOfControl2\obj\Debug\net7.0\refint\inverseOfControl2.dll
+D:\FPT_Fresher\C#\dependencesInjection\inverseOfControl2\obj\Debug\net7.0\inverseOfControl2.pdb
+D:\FPT_Fresher\C#\dependencesInjection\inverseOfControl2\obj\Debug\net7.0\inverseOfControl2.genruntimeconfig.cache
+D:\FPT_Fresher\C#\dependencesInjection\inverseOfControl2\obj\Debug\net7.0\ref\inverseOfControl2.dll

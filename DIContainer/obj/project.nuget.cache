@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nGYVgxb4s7xgMj+893g2BoRcd30h8AGznyzBV0hB7bYwp4xAO4Uf6Yy9i6xF7JtNhVXaAr2HwHlb8easmJjF3Q==",
+  "success": true,
+  "projectFilePath": "D:\\FPT_Fresher\\C#\\dependencesInjection\\DIContainer\\inverseOfControl.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\7.0.0\\microsoft.extensions.dependencyinjection.7.0.0.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
